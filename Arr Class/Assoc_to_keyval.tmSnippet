@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Arr::assoc_to_keyval(${2:\$array}, '${3:key_field}', '${4:val_field}')${0}
+</string>
+	<key>name</key>
+	<string>Assoc_to_keyval</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>farr</string>
+	<key>uuid</key>
+	<string>877EFE00-19B8-4652-995C-CDFED900A7EA</string>
+</dict>
+</plist>

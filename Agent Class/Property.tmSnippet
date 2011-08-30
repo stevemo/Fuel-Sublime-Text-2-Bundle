@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Agent::property(${2:'${3:proprety}'})${0}
+</string>
+	<key>name</key>
+	<string>Property</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fagent</string>
+	<key>uuid</key>
+	<string>57C14211-4121-4645-82F5-A26163CCF111</string>
+</dict>
+</plist>

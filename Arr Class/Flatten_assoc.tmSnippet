@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Arr::flatten_assoc(${2:\$array}, '${3:glue}'${4:, ${5:true}})${0}
+</string>
+	<key>name</key>
+	<string>Flatten_assoc</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>farr</string>
+	<key>uuid</key>
+	<string>CEAE3B42-74BB-44E2-BE35-A5D08DD493AE</string>
+</dict>
+</plist>

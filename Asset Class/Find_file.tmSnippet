@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Asset::find_file('${2:file}', '${3:folder}')${0}
+</string>
+	<key>name</key>
+	<string>Find_file</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fasset</string>
+	<key>uuid</key>
+	<string>564DB678-9AFF-4C01-8703-77BD12FC4CFF</string>
+</dict>
+</plist>

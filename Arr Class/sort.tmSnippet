@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Arr::sort(${2:\$array}, ${3:key}, ${4:order}, ${5:sort_flags})${0}</string>
+	<key>name</key>
+	<string>sort</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>farr</string>
+	<key>uuid</key>
+	<string>490AFD0C-F077-4368-9A29-6BF733596E8D</string>
+</dict>
+</plist>

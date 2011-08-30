@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Asset::css(${2:stylesheet}${3: , ${4:array()}, '${5:group}', ${6:false}})${0}
+</string>
+	<key>name</key>
+	<string>Css</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fasset</string>
+	<key>uuid</key>
+	<string>99DD8423-6D53-4903-956B-3D0152573C41</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Agent::is_mobile()${0}
+</string>
+	<key>name</key>
+	<string>Is_mobile</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fagent</string>
+	<key>uuid</key>
+	<string>77EB2544-71D0-4A0B-A422-92852E693829</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Asset::js(${2:scripts}${3:, ${4:array()}, '${5:group}', ${6:false}})${0}
+</string>
+	<key>name</key>
+	<string>Js</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fasset</string>
+	<key>uuid</key>
+	<string>C8E8642E-0AE9-408E-8422-78AF5A2A2360</string>
+</dict>
+</plist>

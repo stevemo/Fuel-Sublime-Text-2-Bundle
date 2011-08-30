@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Agent::browser()${0}
+</string>
+	<key>name</key>
+	<string>Platform</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fagent</string>
+	<key>uuid</key>
+	<string>FF34A2C3-3371-42E4-9687-4FE61700B778</string>
+</dict>
+</plist>

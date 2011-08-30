@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Arr::insert_after_key(${2:\$original}, '${3:value}', ${4:\$key})${0}
+</string>
+	<key>name</key>
+	<string>Insert_after_key</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>farr</string>
+	<key>uuid</key>
+	<string>14931F1C-D197-4469-A058-B98B00F2BE00</string>
+</dict>
+</plist>

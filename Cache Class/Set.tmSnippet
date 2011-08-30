@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Cache::set(${2:identifier}, ${3:content}, ${4:expiration}${5:, ${6:dependencies}})${0}
+</string>
+	<key>name</key>
+	<string>Set      </string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fcache</string>
+	<key>uuid</key>
+	<string>0E73857E-8FB1-4BFE-9C78-94ABE95B1063</string>
+</dict>
+</plist>

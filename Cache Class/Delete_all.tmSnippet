@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Cache::delete_all(${2:'${3:section}', '${4:driver}'})${0}
+</string>
+	<key>name</key>
+	<string>Delete_all</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fcache</string>
+	<key>uuid</key>
+	<string>4FE869F4-FF3E-422A-AE2D-ED36BFE3DCAE</string>
+</dict>
+</plist>

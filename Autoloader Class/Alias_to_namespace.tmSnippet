@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Autoloader::alias_to_namespace('${2:Mynamspace\\Myclass}', '${3:Other\\Namespace\\}')${0}
+</string>
+	<key>name</key>
+	<string>Alias_to_namespace</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fauto</string>
+	<key>uuid</key>
+	<string>640CB0BE-E0E5-46F2-BCD6-7091BB748D3B</string>
+</dict>
+</plist>

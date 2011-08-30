@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Autoloader::add_class('${2:Namespace\\Class}', '${3:path}')${0}
+</string>
+	<key>name</key>
+	<string>Add_class</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fauto</string>
+	<key>uuid</key>
+	<string>44F1AF17-006D-49AD-BD89-F72D06976F5F</string>
+</dict>
+</plist>
