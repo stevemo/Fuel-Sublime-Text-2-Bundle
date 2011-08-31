@@ -33,3 +33,4 @@ Type the name of the method and <tab> will list all the available methods for th
 **File Class** 			- ffile  
 **Form Class** 			- fform  
 **Fuel Class** 			- ffuel  
+**Html Class** 			- fhtml  
