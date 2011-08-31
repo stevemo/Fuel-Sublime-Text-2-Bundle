@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Event::trigget('${2:event'}, '${3:data}')${0}
+</string>
+	<key>name</key>
+	<string>Trigger</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fevent</string>
+	<key>uuid</key>
+	<string>636801A3-534B-47E8-AB9D-043A977114FC</string>
+</dict>
+</plist>

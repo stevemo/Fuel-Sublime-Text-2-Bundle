@@ -26,4 +26,6 @@ Type the name of the method and <tab> will list all the available methods for th
 **Config Class** 		- fconfig  
 **Cookie Class** 		- fcookie  
 **Crypt Class** 		- fcrypt  
-
+**Date Class** 			- fdate  
+**Debug Class** 		- fdebug  
+**Event Class** 		- fevent  
