@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Date::days_in_month(${2:${3:month}${4:, ${5:year}}})${0}
+</string>
+	<key>name</key>
+	<string>Days_in_month</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fdate</string>
+	<key>uuid</key>
+	<string>944FD6F9-9012-4CB9-9C64-63B769EF5BE4</string>
+</dict>
+</plist>

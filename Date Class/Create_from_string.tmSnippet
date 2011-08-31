@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Date::create_from_string(${2:input}, ${3:pattern_key})${0}
+</string>
+	<key>name</key>
+	<string>Create_from_string</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fdate</string>
+	<key>uuid</key>
+	<string>870A8626-63FB-4D72-85D5-77A53A4C1B77</string>
+</dict>
+</plist>
