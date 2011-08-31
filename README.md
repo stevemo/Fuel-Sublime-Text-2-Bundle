@@ -1,4 +1,4 @@
-# Fuel Sublime 2 Bundle
+# Fuel Sublime Text 2 Bundle
 
 ## Install from GitHub
 
