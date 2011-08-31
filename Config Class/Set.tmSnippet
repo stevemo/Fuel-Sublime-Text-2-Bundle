@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Config::set('${2:item}', ${3:value})${0}</string>
+	<key>name</key>
+	<string>Set</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fconfig</string>
+	<key>uuid</key>
+	<string>562C55D1-7471-40F4-B0C4-E41CD37C34C9</string>
+</dict>
+</plist>

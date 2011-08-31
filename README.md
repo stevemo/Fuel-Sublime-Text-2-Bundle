@@ -1,4 +1,4 @@
-# Fuel TextMate Bundle
+# Fuel Sublime 2 Bundle
 
 ## Install from GitHub
 
