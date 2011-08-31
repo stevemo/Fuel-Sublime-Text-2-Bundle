@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Fuel::find_file('${2:directory}', '${3:file}'${4:, '${5:.php}'${6:, ${7:false}, ${8:true}}})${0}
+</string>
+	<key>name</key>
+	<string>Find_file</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ffuel</string>
+	<key>uuid</key>
+	<string>6A66AFE1-6E5E-4F67-B8F9-62059E77E7C7</string>
+</dict>
+</plist>

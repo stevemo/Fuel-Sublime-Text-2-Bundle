@@ -31,3 +31,5 @@ Type the name of the method and <tab> will list all the available methods for th
 **Event Class** 		- fevent  
 **Fieldset Class** 		- ffieldset  
 **File Class** 			- ffile  
+**Form Class** 			- fform  
+**Fuel Class** 			- ffuel  

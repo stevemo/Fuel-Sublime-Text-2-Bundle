@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Fuel::add_package(${2:package})${0}
+</string>
+	<key>name</key>
+	<string>Add_package</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ffuel</string>
+	<key>uuid</key>
+	<string>C3CF8F29-E8CB-46B5-8D32-A23103F77816</string>
+</dict>
+</plist>
