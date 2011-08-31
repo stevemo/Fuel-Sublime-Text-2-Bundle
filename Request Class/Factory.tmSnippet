@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Request::factory(${2:uri}${3:, ${4:route}})${0}
+</string>
+	<key>name</key>
+	<string>Factory</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>frequest</string>
+	<key>uuid</key>
+	<string>C8CBD1F7-D656-461F-A526-776590487491</string>
+</dict>
+</plist>

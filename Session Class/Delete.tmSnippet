@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Session::delete('${2:variable}')${0}
+</string>
+	<key>name</key>
+	<string>Delete</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fsession</string>
+	<key>uuid</key>
+	<string>0C9BFD91-D3DA-4F51-B3F6-6EDA566C28A2</string>
+</dict>
+</plist>

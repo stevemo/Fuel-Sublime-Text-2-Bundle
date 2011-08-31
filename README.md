@@ -39,3 +39,10 @@ Type the name of the method and <tab> will list all the available methods for th
 **Lang Class** 			- flang  
 **Log Class** 			- flog  
 **Migrate Class** 		-fmigrate  
+**Pagination Class** 	-fpagination  
+**Request Class** 		-frequest  
+**Response Class** 		-fresponse  
+**Security Class** 		-fsecurity  
+**Session Class** 		-fsession  
+**Str Class** 			-fstr  
+**Upload Class** 		-fupload  

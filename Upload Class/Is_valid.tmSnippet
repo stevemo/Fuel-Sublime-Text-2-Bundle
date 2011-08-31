@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Upload::is_valid()${0}
+</string>
+	<key>name</key>
+	<string>Is_valid</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fupload</string>
+	<key>uuid</key>
+	<string>7C17527B-9030-4A01-969F-3A8F3DCAFDE5</string>
+</dict>
+</plist>

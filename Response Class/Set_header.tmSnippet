@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;response-&gt;set_header(${1:name}, ${2:value})${0}
+</string>
+	<key>name</key>
+	<string>Set_header</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fresponse</string>
+	<key>uuid</key>
+	<string>6AA0F5D1-2606-430C-A599-87A9B9388516</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Str::random(${2:type}${3:, ${4:length}})${0}
+</string>
+	<key>name</key>
+	<string>Random</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fstr</string>
+	<key>uuid</key>
+	<string>AE57B919-A056-4E98-928F-C7E9AD4E49E3</string>
+</dict>
+</plist>

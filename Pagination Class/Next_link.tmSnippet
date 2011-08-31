@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Pagination::next_link(${2:value})${0}
+</string>
+	<key>name</key>
+	<string>Next_link</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fpagination</string>
+	<key>uuid</key>
+	<string>DF434F62-9050-46D4-BDC1-D7212DC4116A</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Security::check_token(${2:value})${0}
+</string>
+	<key>name</key>
+	<string>Check_token</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fsecurity</string>
+	<key>uuid</key>
+	<string>0CFB774C-3F96-4702-95D8-C466147E5051</string>
+</dict>
+</plist>

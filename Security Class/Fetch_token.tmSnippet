@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Security::fetch_token()${0}
+</string>
+	<key>name</key>
+	<string>Fetch_token</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fsecurity</string>
+	<key>uuid</key>
+	<string>CFD7B159-8F2B-47CF-B172-9C3DABE8530D</string>
+</dict>
+</plist>
