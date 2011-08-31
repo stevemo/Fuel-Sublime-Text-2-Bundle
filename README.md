@@ -7,10 +7,10 @@
 3. Rename the folder to Fuel
 4. Copy the Fuel folder to your Sublime Text 2 package directory
 
-Windows: %APPDATA%\Sublime Text 2\packages  
-OS X: ~/Library/Application Support/Sublime Text 2/Packages  
-Linux: ~/.Sublime Text 2/Packages  
-Portable Installation: Sublime Text 2/Data/Packages  
+**Windows:** %APPDATA%\Sublime Text 2\packages  
+**OS X:** ~/Library/Application Support/Sublime Text 2/Packages  
+**Linux:** ~/.Sublime Text 2/Packages  
+**Portable Installation:** Sublime Text 2/Data/Packages  
 
 ## Usage
 
@@ -23,5 +23,6 @@ Type the name of the method and <tab> will list all the available methods for th
 **Asset Class** 		- fasset  
 **Autoloader Class**	- fauto  
 **Cache Class** 		- fcache  
-
+**Config Class** 		- fconfig  
+**Cookie Class** 		- fcookie  
 

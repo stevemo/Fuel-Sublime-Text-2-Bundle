@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Cookie::set('${2:name}',${3:value}${4:, ${5:expiration}${6:, ${7:path}, ${8:domain}, ${9:secure}, ${10:httponly}}})${0}
+</string>
+	<key>name</key>
+	<string>Set</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fcookie</string>
+	<key>uuid</key>
+	<string>1B9FB950-E298-4148-A4E8-9E364CCFFA23</string>
+</dict>
+</plist>
