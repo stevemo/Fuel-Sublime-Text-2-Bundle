@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Debug::dump(${2:Unlimited mixed arguments})${0}
+</string>
+	<key>name</key>
+	<string>Dump</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fdebug</string>
+	<key>uuid</key>
+	<string>57E5AE7F-DEC1-4859-873B-C5D00F005F7F</string>
+</dict>
+</plist>
