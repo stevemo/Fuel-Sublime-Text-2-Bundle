@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Crypt::encode(${2:value}${3:, ${4:key}})${0}
+</string>
+	<key>name</key>
+	<string>Encode</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fcrypt</string>
+	<key>uuid</key>
+	<string>092935AE-5B4F-4AEA-AEFE-4BE872FAD192</string>
+</dict>
+</plist>

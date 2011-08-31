@@ -25,4 +25,5 @@ Type the name of the method and <tab> will list all the available methods for th
 **Cache Class** 		- fcache  
 **Config Class** 		- fconfig  
 **Cookie Class** 		- fcookie  
+**Crypt Class** 		- fcrypt  
 
