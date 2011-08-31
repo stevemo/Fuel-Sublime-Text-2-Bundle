@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Inflector::pluralize(${2:word})${0}
+</string>
+	<key>name</key>
+	<string>Pluralize</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>finflector</string>
+	<key>uuid</key>
+	<string>882C4F76-0344-4E2C-B12B-7AF10F9CBC4F</string>
+</dict>
+</plist>

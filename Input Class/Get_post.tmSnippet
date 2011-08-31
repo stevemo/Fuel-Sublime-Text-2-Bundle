@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Input::get_post(${2:index}${3:, ${4:default}})${0}
+</string>
+	<key>name</key>
+	<string>Get_post</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>finput</string>
+	<key>uuid</key>
+	<string>4E2F45D4-ED6C-497F-AC19-92441AA02F9B</string>
+</dict>
+</plist>

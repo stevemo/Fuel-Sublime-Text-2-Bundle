@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Inflector::get_namespace(${2:class_name})${0}
+</string>
+	<key>name</key>
+	<string>Get_namespace</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>finflector</string>
+	<key>uuid</key>
+	<string>01E267E0-2E5A-405F-94AF-4A004846A66D</string>
+</dict>
+</plist>

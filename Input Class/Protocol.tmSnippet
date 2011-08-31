@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Input::protocol()${0}
+</string>
+	<key>name</key>
+	<string>Protocol</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>finput</string>
+	<key>uuid</key>
+	<string>44F6E491-2248-4431-8502-C3A796BCDC2D</string>
+</dict>
+</plist>

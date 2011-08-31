@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Inflector::humanize(${2:lower_case_and_underscored_word})${0}
+</string>
+	<key>name</key>
+	<string>Humanize</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>finflector</string>
+	<key>uuid</key>
+	<string>BFCA8DA3-9E19-4C60-8279-761697C66481</string>
+</dict>
+</plist>

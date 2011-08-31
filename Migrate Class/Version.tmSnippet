@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Migrate::version(${2:version})${0}
+</string>
+	<key>name</key>
+	<string>Version</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fmigrate</string>
+	<key>uuid</key>
+	<string>ED5C3D56-0630-49F6-A2DE-C0FDFC114835</string>
+</dict>
+</plist>

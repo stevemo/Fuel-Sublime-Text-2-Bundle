@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Inflector::singularize(${2:word})${0}
+</string>
+	<key>name</key>
+	<string>Singularize</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>finflector</string>
+	<key>uuid</key>
+	<string>E3E9B520-EB86-46F3-B0BC-E52B8E45D32E</string>
+</dict>
+</plist>
