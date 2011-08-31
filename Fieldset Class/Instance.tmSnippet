@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Fieldset::instance('${2:name}')${0}
+</string>
+	<key>name</key>
+	<string>Instance</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ffieldset</string>
+	<key>uuid</key>
+	<string>E57F681D-8815-4DAF-B977-416FD3B7307C</string>
+</dict>
+</plist>
