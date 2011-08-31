@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Form::select('${2:field}'${3:, ${4:value}${5:, ${6:options}${7:, ${8:attributes}}}})${0}
+</string>
+	<key>name</key>
+	<string>Select</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fform</string>
+	<key>uuid</key>
+	<string>B8AD8B68-1C10-499C-B7DD-03E777363D79</string>
+</dict>
+</plist>

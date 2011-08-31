@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Form::button('${2:field}'${3:, ${4:value}${5:, ${6:attributes}}})${0}
+</string>
+	<key>name</key>
+	<string>Button</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fform</string>
+	<key>uuid</key>
+	<string>A42BD6CB-D9D1-4501-8D42-FB4DC9F0542C</string>
+</dict>
+</plist>

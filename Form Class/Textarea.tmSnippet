@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Form::textarea('${2:field}'${3:, ${4:value}${5:, ${6:attributes}}})${0}
+</string>
+	<key>name</key>
+	<string>Textarea</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fform</string>
+	<key>uuid</key>
+	<string>D6305D6A-33D1-453E-B18E-50C9F85AE658</string>
+</dict>
+</plist>
