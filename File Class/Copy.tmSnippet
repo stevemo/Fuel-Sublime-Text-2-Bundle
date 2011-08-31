@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}File::copy(${2:path}, ${3:new_path}${4:, ${5:area}})${0}
+</string>
+	<key>name</key>
+	<string>Copy</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ffile</string>
+	<key>uuid</key>
+	<string>CEB18530-4946-4FEC-83B3-DAA5CD01914F</string>
+</dict>
+</plist>

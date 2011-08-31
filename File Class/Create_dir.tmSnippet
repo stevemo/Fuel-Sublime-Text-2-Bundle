@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}File::create_dir(${2:basepath}, '${3:name}'${4:, ${5:chmod}${6:, ${7:area}}})${0}
+</string>
+	<key>name</key>
+	<string>Create_dir</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ffile</string>
+	<key>uuid</key>
+	<string>C94BD461-BAFB-4691-A794-30940342ABDD</string>
+</dict>
+</plist>

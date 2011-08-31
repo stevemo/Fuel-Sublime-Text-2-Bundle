@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}File::open_file(${2:path}${4:, ${5:lock}${6:, ${7:area}}})${0}
+</string>
+	<key>name</key>
+	<string>Open_file</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ffile</string>
+	<key>uuid</key>
+	<string>499C1132-DA8F-4AD1-BA23-8BE3ACB9025C</string>
+</dict>
+</plist>

@@ -30,3 +30,4 @@ Type the name of the method and <tab> will list all the available methods for th
 **Debug Class** 		- fdebug  
 **Event Class** 		- fevent  
 **Fieldset Class** 		- ffieldset  
+**File Class** 			- ffile  

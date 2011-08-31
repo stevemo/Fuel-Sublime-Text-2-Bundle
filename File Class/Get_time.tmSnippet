@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}File::get_time(${2:path}, ${3:type}${4:, ${5:area}})${0}
+</string>
+	<key>name</key>
+	<string>Get_time</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ffile</string>
+	<key>uuid</key>
+	<string>E596B3B3-DDD8-482C-B64A-32724561BC0E</string>
+</dict>
+</plist>

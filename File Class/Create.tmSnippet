@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}File::create(${2:basepath}, '${3:name}'${4:, ${5:contents}${6:, ${7:area}}})${0}
+</string>
+	<key>name</key>
+	<string>Create</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ffile</string>
+	<key>uuid</key>
+	<string>3D86AE85-BFA8-4670-BBBA-9D94312566BD</string>
+</dict>
+</plist>

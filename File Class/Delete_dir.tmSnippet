@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}File::delete_dir(${2:path}, ${3:recursive}${4:, ${5:delete_top}${6:, ${7:area}}})${0}
+</string>
+	<key>name</key>
+	<string>Delete_dir</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ffile</string>
+	<key>uuid</key>
+	<string>78AE9676-A96E-4CD8-86E6-C0DDD7C79CE0</string>
+</dict>
+</plist>
