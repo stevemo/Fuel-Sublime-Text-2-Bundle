@@ -46,3 +46,8 @@ Type the name of the method and <tab> will list all the available methods for th
 **Session Class** 		-fsession  
 **Str Class** 			-fstr  
 **Upload Class** 		-fupload  
+**Uri Class** 			-furi  
+
+## Templates
+**Controller**	-fcontroller  
+**Model**	-fmodel  

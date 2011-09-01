@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\\}Uri::create(${2:uri}${3:, ${4:variables}${5:, ${6:get_variables}}})${0}
+</string>
+	<key>name</key>
+	<string>Create</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>furi</string>
+	<key>uuid</key>
+	<string>7B64D04E-2E12-43E0-8F9A-9BA8908E1F80</string>
+</dict>
+</plist>
