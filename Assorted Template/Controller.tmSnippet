@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>
+/**
+ * The ${1} Controller.
+ *
+ *
+ * 
+ * @package  
+ * @extends  ${3}
+ */
+
+class Controller_${1:ClassName} extends ${2:\\}${3:Controller} {
+
+	public function action_${4:index}(${5:variable})
+	{
+		${6:\$this-&gt;response-&gt;body = ${7:View::factory('${8:index}')};}${0}
+	}
+
+}
+/* end of ${TM_FILENAME} */</string>
+	<key>name</key>
+	<string>Controller</string>
+	<key>tabTrigger</key>
+	<string>fcontroller</string>
+	<key>uuid</key>
+	<string>36E85C6F-473F-450F-A548-BC015336C7DD</string>
+</dict>
+</plist>

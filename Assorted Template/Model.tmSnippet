@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>
+/**
+ * The ${1} Model.
+ *
+ * 
+ * @package  
+ * @extends  ${3}
+ */
+
+class Model_${1:class_name} extends ${2:\\}${3:Orm\Model} {
+	
+	${4:protected static $_belongs_to = array('${5:table_name}'${6:other_table});}
+	
+	${7:protected static $_observers = array(
+		'Orm\\Observer_CreatedAt' =&gt; array('before_insert'),
+		'Orm\\Observer_UpdatedAt' =&gt; array('before_save'),
+	);}
+	
+	${8:protected static $_properties = array(
+		${9:field_name}
+		${10:'created_at',
+		'updated_at',}
+    );}
+	${0}
+}
+
+/* End of file ${TM_FILENAME} */
+
+</string>
+	<key>name</key>
+	<string>Model</string>
+	<key>tabTrigger</key>
+	<string>fmodel</string>
+	<key>uuid</key>
+	<string>C25FC7B2-F411-4BF6-B467-1BA423335065</string>
+</dict>
+</plist>
