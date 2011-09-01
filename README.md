@@ -16,7 +16,7 @@
 
 ### Tab Triggers 
 
-Type the name of the method and <tab> will list all the available methods for this class.  
+Type the name of the Class and Hit tab. This will list all the available methods for this class.
 
 **Agent Class** 		- fagent  
 **Arr Class** 			- farr  
