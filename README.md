@@ -11,7 +11,7 @@
 **OS X:** ~/Library/Application Support/Sublime Text 2/Packages  
 **Linux:** ~/.Sublime Text 2/Packages.   
 **Portable Installation:** Sublime Text 2/Data/Packages  
-~.config/sublime-text-2/packages/.   
+**Linux Ubuntu:** ~.config/sublime-text-2/packages/ 
 
 ## Usage
 
